@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@font-face {
+  font-family: "Butler";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../font/Butler_Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "Quentin";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../font/Quentin.ttf") format("truetype");
+}
+
+/*# sourceMappingURL=font.css.map */
